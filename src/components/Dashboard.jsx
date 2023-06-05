@@ -1,5 +1,5 @@
 import React from 'react'
-import NavBar from './NavBar'
+
 import Profile from './Profile'
 import Header from './Header'
 import Main from './Main'
@@ -7,10 +7,7 @@ import Main from './Main'
 const Dashboard = () => {
   return (
     <div className='flex max-sm:flex-col'>
-        <div className='h-screen w-auto max-sm:hidden  '>
-        <NavBar/>
-        </div>
-        <div className='w-full h-screen max-sm:w-screen'>
+        <div className='w-full h-full max-sm:w-screen bg-slate-200'>
         <Profile/>
         <Header/> 
            <Main/> 

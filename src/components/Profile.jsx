@@ -2,7 +2,7 @@ import React from 'react'
 
 const Profile = () => {
   return (
-    <div className='bg-gray-700 rounded-tl-2xl  w-full max-sm:w-auto  h-auto max-sm:h-[80px]  max-sm:rounded-none flex  items-center  max-sm:justify-between justify-evenly '>
+    <div className='bg-gray-700  w-full max-sm:w-auto  h-auto max-sm:h-[80px]  max-sm:rounded-none flex  items-center  max-sm:justify-between justify-evenly '>
 <div className=''>
 <h1 className='text-white ml-16 p-2 mr-[500px] max-sm:mr-[0] max-sm:ml-0 text-2xl'>
             Profile
