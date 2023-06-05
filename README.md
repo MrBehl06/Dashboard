@@ -17,10 +17,13 @@ The following dependencies are used in this project:
 3) React Chart.js 2
 4) Chart.js
 
+
 # Usage
 Upon launching the application, you will see the Analysis App homepage.
 The dashboard page will display different types of charts: Bar Chart, Line Chart, Pie Chart, and Radar Chart.
 Each chart provides visual representation of different data sets.
+
+Link for the application :-
 
 # Video
 
