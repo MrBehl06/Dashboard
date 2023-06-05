@@ -1,7 +1,7 @@
 import React from 'react';
 import { Bar , Line , Pie, Radar} from 'react-chartjs-2';
 import { Chart, registerables } from 'chart.js';
-import { pieChartData , barChartData ,lineChartData ,radarChartData} from './data';
+import { pieChartData , barChartData ,lineChartData ,radarChartData} from './Constants';
 Chart.register(...registerables);
 
 const Main = () => {
